@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.product-table{
+  margin-left: 10px;
+  text-align: left;
+  border: 1px solid silver;
+  width: 250px;
+  padding: 4px;
+}
